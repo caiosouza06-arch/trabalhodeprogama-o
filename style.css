@@ -1,20 +1,24 @@
 body{
     background-color: yellow;
+    text-align: center;
 }
 h1{
     color: brown;
     font-style: italic;
 }
-.AnaCastela{width: 50%;}
-.Sekekama{width: 50%;}
-.Tsavo{width: 50%;}
-.Covil{width: 50%;}
-.A Escuridão{width: 40%%;}
-.O Rei mais temido do mundo{width: 50%;}
-.Ponte{width: 50%;}
-.Árvore{width: 50%;}
-.Quase finalizada{width: 50%;}
-.Ponte finalizada{width: 50%;}
-.Armadilhas{width: 50%;}
-.Ponte em Tsavo atualmente{width: 50%;}
-.Coronel John Henry Patterson{width: 50%;}
+.AnaCastela{width: 50%; text-align: center;}
+.Sekekama{width: 50%; text-align: center;}
+.Tsavo{width: 50%; text-align: center;}
+.Covil{width: 50%; text-align: center;}
+.A Escuridão{width: 40%; text-align: center;}
+.O Rei mais temido do mundo{width: 50%; text-align: center;}
+.Ponte{width: 50%; text-align: center;}
+.Árvore{width: 50%; text-align: center;}
+.Quase finalizada{width: 50%; text-align: center;}
+.Ponte finalizada{width: 50%; text-align: center;}
+.Armadilhas{width: 50%; text-align: center;}
+.Ponte em Tsavo atualmente{width: 50%; text-align: center;}
+.Coronel John Henry Patterson{width: 50%; text-align: center;}
+.lista{
+    text-decoration: overline;
+}
