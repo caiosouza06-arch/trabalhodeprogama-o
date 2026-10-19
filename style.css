@@ -22,19 +22,97 @@ h3{
     color: brown;
     font-style: italic;
 }
-.AnaCastela{width: 50%; text-align: center;}
-.Sekekama{width: 50%; text-align: center;}
-.Tsavo{width: 50%; text-align: center;}
-.Covil{width: 50%; text-align: center;}
-.A Escuridão{width: 40%; text-align: center;}
-.O Rei mais temido do mundo{width: 50%; text-align: center;}
-.Ponte{width: 50%; text-align: center;}
-.Árvore{width: 50%; text-align: center;}
-.Quase finalizada{width: 50%; text-align: center;}
-.Ponte finalizada{width: 50%; text-align: center;}
-.Armadilhas{width: 50%; text-align: center;}
-.Ponte em Tsavo atualmente{width: 50%; text-align: center;}
-.Coronel John Henry Patterson{width: 50%; text-align: center;}
+.AnaCastela{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Sekekama{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Tsavo{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Covil{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.A Escuridão{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.O Rei mais temido do mundo{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Ponte{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Árvore{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Quase finalizada{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Ponte finalizada{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Armadilhas{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Ponte em Tsavo atualmente{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
+.Coronel John Henry Patterson{ width: 250px;
+            height: 200px;
+            object-fit: contain;
+            object-position: center;
+            display: block;
+            border-radius: 8px;
+        }
 .lista{
     text-decoration: overline;
 }
