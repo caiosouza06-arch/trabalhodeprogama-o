@@ -22,123 +22,99 @@ h3{
     color: brown;
     font-style: italic;
 }
-.AnaCastela{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
+.AnaCastela{width: 80%;      
+    max-width: 700px;  
+    height: auto;      
+    display: block;     
+    margin: 30px auto;
+    border-radius: 10px;
         }
-.Sekekama{ width: 300px;
+.Sekekama{ width: 80%;
+    max-width: 700px;
     height: auto;
-    max-height: 250px;
-    object-fit: contain;
-    object-position: center;
     display: block;
-    margin: 10 px auto;  
-    border-radius: 8px;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.Tsavo{  width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.Covil{  width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.A Escuridão{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.O Rei mais temido do mundo{  width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.Ponte{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+            
+        }
+.Árvore{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+           
+        }
+.Quase finalizada{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.Ponte finalizada{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+        }
+.Armadilhas{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+    
 }
+.Ponte em Tsavo atualmente{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
         }
-.Tsavo{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Covil{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.A Escuridão{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.O Rei mais temido do mundo{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Ponte{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Árvore{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto; 
-            border-radius: 8px;
-        }
-.Quase finalizada{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto; 
-            border-radius: 8px;
-        }
-.Ponte finalizada{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Armadilhas{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Ponte em Tsavo atualmente{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
-        }
-.Coronel John Henry Patterson{ width: 300px;
-            height: auto;
-            max-height: 250 px;
-            object-fit: contain;
-            object-position: center;
-            display: block;
-            margin: 10 px auto;
-            border-radius: 8px;
+.Coronel John Henry Patterson{ width: 80%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
         }
 .lista{
     text-decoration: overline;
