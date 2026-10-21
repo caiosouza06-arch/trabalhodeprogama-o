@@ -1,121 +1,36 @@
-body{
+
+body {
     background-color: yellow;
     text-align: center;
 }
-h1{
+
+h1, h2, h3 {
     color: brown;
     font-style: italic;
 }
-h3{
-    color:brown;
-    font-style: italic;
+
+.AnaCastela,
+.Sekekama,
+.Tsavo,
+.Covil,
+.AEscuridao,
+.OReiMaisTemidoDoMundo,
+.Ponte,
+.Arvore,
+.QuaseFinalizada,
+.PonteFinalizada,
+.Armadilhas,
+.PonteEmTsavoAtualmente,
+.CoronelJohnHenryPatterson {
+    width: 80%;
+    max-width: 700px;
+    height: 350px;
+    object-fit: contain;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
 }
-h3{
-    color: brown;
-    font-style: italic;
-}
-h2{
-    color:brown;
-    font-style: italic;
-}
-h3{
-    color: brown;
-    font-style: italic;
-}
-.AnaCastela{width: 80%;      
-    max-width: 700px;  
-    height: auto;      
-    display: block;     
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Sekekama{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Tsavo{  width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Covil{  width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.A Escuridão{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.O Rei mais temido do mundo{  width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Ponte{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-            
-        }
-.Árvore{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-           
-        }
-.Quase finalizada{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Ponte finalizada{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Armadilhas{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-    
-}
-.Ponte em Tsavo atualmente{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.Coronel John Henry Patterson{ width: 80%;
-    max-width: 700px;
-    height: auto;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
-        }
-.lista{
+
+.lista {
     text-decoration: overline;
 }
