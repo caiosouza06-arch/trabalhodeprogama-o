@@ -9,26 +9,50 @@ h1, h2, h3 {
     font-style: italic;
 }
 
-.AnaCastela,
-.Sekekama,
+.AnaCastela{
+    width: 500px;
+    max-width: 90%
+}
+.Sekekama {
+    width: 70%;
+    max-width: 600px;
+}
 .Tsavo,
-.Covil,
-.AEscuridao,
+.Covil {
+    width: 500px;
+    max-width: 90%}
+.AEscuridao {
+    width: 70%;
+    max-width: 600px;
+}
 .OReiMaisTemidoDoMundo,
-.Ponte,
-.Arvore,
-.QuaseFinalizada,
-.PonteFinalizada,
-.Armadilhas,
-.PonteEmTsavoAtualmente,
-.CoronelJohnHenryPatterson {
-    width: 80%;
-    max-width: 700px;
-    height: 350px;
-    object-fit: contain;
-    display: block;
-    margin: 30px auto;
-    border-radius: 10px;
+.Ponte {
+    width: 500px;
+    max-width: 90%
+}
+.Arvore {
+    width: 500px;
+    max-width: 90%
+}
+.QuaseFinalizada{
+    width: 500px;
+    max-width: 90%
+}
+.PonteFinalizada {
+    width: 500px;
+    max-width: 90%
+}
+.Armadilhas{
+    width: 500px;
+    max-width: 90%
+}
+.PonteEmTsavoAtualmente{
+    width: 500px;
+    max-width: 90%
+}
+.CoronelJohnHenryPatterson{
+    width: 500px;
+    max-width: 90%
 }
 
 .lista {
