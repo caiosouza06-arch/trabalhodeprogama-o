@@ -17,7 +17,10 @@ h1, h2, h3 {
        width: 500px;
     max-width: 90%;
 }
-.Tsavo,
+.Tsavo{
+    width: 500px;
+    max-widt: 90%;
+}
 .Covil {
     width: 500px;
     max-width: 90%}
