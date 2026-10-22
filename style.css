@@ -2,6 +2,13 @@
 body {
     background-color: yellow;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+    
 }
 
 h1, h2, h3 {
@@ -53,8 +60,6 @@ h1, h2, h3 {
     width: 550px;
     max-width: 90%;
     height: auto;
-    display: block;   
-    margin: 0 auto;
 }
 .PonteEmTsavoAtualmente{
     width: 500px;
