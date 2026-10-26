@@ -23,8 +23,9 @@ h3{color: brown;
     max-width: 90%;
 }
 .Sekekama {
-       width: 500px;
-    max-width: 90%;
+       width: 350px;
+    max-width: 80%;
+    height: auto;
 }
 .Tsavo{
     width: 500px;
@@ -35,8 +36,9 @@ h3{color: brown;
     max-width: 90%;
 }
 .AEscuridao {
-    width: 70%;
-    max-width: 600px;
+    width: 50%;
+    max-width: 400px;
+    height: auto;
 }
 .OReiMaisTemidoDoMundo {
     width: 70%;
@@ -47,8 +49,9 @@ h3{color: brown;
     max-width: 90%;
 }
 .Arvore {
-    width: 550px;
-    max-width: 95%;
+    width: 700px;
+    max-width: 100%;
+    height: auto;
 }
 .QuaseFinalizada{
     width: 500px;
